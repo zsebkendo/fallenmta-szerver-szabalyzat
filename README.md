@@ -1,0 +1,1 @@
+# fallenmta-szerver-szabalyzat
